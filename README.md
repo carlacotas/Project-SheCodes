@@ -5,8 +5,9 @@ SheCodes Final Project, Build your first website – Coding Workshops for Women,
 
 Project where it was created a landing page from scratch using highly demanded technologies: HTML, CSS and JavaScript.
 
-<p/>
-<p/>
+<br/>
+<br/>
+
 
 ## What's in this project? 💁 
 
@@ -14,8 +15,8 @@ Project where it was created a landing page from scratch using highly demanded t
 
 <li/> index.html: This is the main file for the landing page, with HTML, CSS and JavaScript code.
 
-<p/>
-<p/>
+<br/>
+<br/>
 
 ## How does the final project should look like? 👩‍💻🕵️‍♀️
 

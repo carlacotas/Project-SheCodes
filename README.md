@@ -1,4 +1,5 @@
 # Project-SheCodes
+<br/>
 ## My First Landing Page 💪
 
 SheCodes Final Project, Build your first website – Coding Workshops for Women, Porto - 2019 
@@ -24,7 +25,7 @@ The final goal is to have a landing page similar to this:
 
 [Carla's SheCodes Final Project](https://carlacotas.github.io/Project-SheCodes/)
 
-![image](https://user-images.githubusercontent.com/50515164/130779046-d1fa1690-4179-40d8-9a6c-487d6b3bbb81.png)
+![image](https://user-images.githubusercontent.com/50515164/130779393-6f6e1413-9897-4a15-896c-7bf22ac9180c.png)
 
 ![image](https://user-images.githubusercontent.com/50515164/130779121-fbd3ffda-0211-42d3-98b8-e940e3e041e6.png)
 

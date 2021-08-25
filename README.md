@@ -23,7 +23,7 @@ Project where it was created a landing page from scratch using highly demanded t
 
 The final goal is to have a landing page similar to this:
 
-[Carla's SheCodes Final Project](https://carlacotas.github.io/Project-SheCodes/)
+<li/> [Carla's SheCodes Final Project](https://carlacotas.github.io/Project-SheCodes/)
 
 ![image](https://user-images.githubusercontent.com/50515164/130779393-6f6e1413-9897-4a15-896c-7bf22ac9180c.png)
 

@@ -12,11 +12,11 @@ Project where it was created a landing page from scratch using highly demanded t
 
 ## What's in this project? 💁 
 
-<li/> README.md: That's this file, where you can describe your project and how you built it.
+<li/> <i>README.md:</i> That's this file, where you can describe your project and how you built it. 
 
 <p/>
 
-<li/> index.html: This is the main file for the landing page, with HTML, CSS and JavaScript code.
+<li/> <i>index.html:</i> This is the main file for the landing page, with HTML, CSS and JavaScript code.
 
 <br/>
 <br/>

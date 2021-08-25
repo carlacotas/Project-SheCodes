@@ -6,12 +6,16 @@ SheCodes Final Project, Build your first website – Coding Workshops for Women,
 Project where it was created a landing page from scratch using highly demanded technologies: HTML, CSS and JavaScript.
 
 <p/>
+<p/>
 
 ## What's in this project? 💁 
 
 <li/> README.md: That's this file, where you can describe your project and how you built it.
 
 <li/> index.html: This is the main file for the landing page, with HTML, CSS and JavaScript code.
+
+<p/>
+<p/>
 
 ## How does the final project should look like? 👩‍💻🕵️‍♀️
 

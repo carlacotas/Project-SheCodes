@@ -14,6 +14,7 @@ Project where it was created a landing page from scratch using highly demanded t
 
 <li/> README.md: That's this file, where you can describe your project and how you built it.
 
+
 <li/> index.html: This is the main file for the landing page, with HTML, CSS and JavaScript code.
 
 

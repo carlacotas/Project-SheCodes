@@ -27,5 +27,5 @@ The final goal is to have a landing page similar to this:
 
 ![image](https://user-images.githubusercontent.com/50515164/130779393-6f6e1413-9897-4a15-896c-7bf22ac9180c.png)
 
-![image](https://user-images.githubusercontent.com/50515164/130779121-fbd3ffda-0211-42d3-98b8-e940e3e041e6.png)
+![image](https://user-images.githubusercontent.com/50515164/130779500-4bb3839a-d608-422e-822d-aeb28a0e122f.png)
 
